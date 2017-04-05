@@ -6,7 +6,7 @@ body
 }
 header
 {
-		background: url(Semaine5/ep_naturalblack.png);
+		background: url("Semaine5/ep_naturalblack.png");
 }
 header h1
 {
@@ -21,9 +21,9 @@ header img
 }
 main
 {
-		background: url(Semaine5/stucco.png);
+		background: url("Semaine5/stucco.png");
 }
 footer
 {
-	background: url(Semaine5/ep_naturalwhite/ep_naturalwhite/ep_naturalwhite.png);
+	background: url("Semaine5/ep_naturalwhite/ep_naturalwhite/ep_naturalwhite.png");
 }
