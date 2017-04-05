@@ -1,0 +1,17 @@
+body
+{
+	background: url(FILE0143.JPG);
+	background-attachment: fixed;
+	font-family: 'Raleway', sans-serif;
+	color: black;
+}
+header h1
+{
+  font-size: center;
+  font-weight: bold;
+}
+header img
+{
+  max-width: 75px;
+  max-height: 100px
+}
