@@ -1,19 +1,26 @@
 body
 {
-	background: url(https://github.com/Sethi-Skyler/Semaine5/blob/master/blackmamba/blackmamba/blackmamba_%402X.png);
+	background: url(Semaine5/stucco.png);
 	background-attachment: fixed;
 	font-family: 'Raleway', sans-serif;
 	color: black;
 }
+header
+{
+		background: url(Semaine5/ep_naturalblack.png);
+}
 header h1
 {
-	background: url(Semaine5/ep_naturalblack/ep_naturalblack/ep_naturalblack.png);
   font-size: center;
   font-weight: bold;
 }
 header img
 {
-	background: url(Semaine5/ep_naturalwhite/ep_naturalwhite/ep_naturalwhite.png);
+
   max-width: 75px;
   max-height: 100px
+}
+footer
+{
+	background: url(Semaine5/ep_naturalwhite/ep_naturalwhite/ep_naturalwhite.png);
 }
