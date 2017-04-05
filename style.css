@@ -1,17 +1,19 @@
 body
 {
-	background: url(FILE0143.JPG);
+	background: url(Semaine5/blackmamba/blackmamba/blackmamba.png);
 	background-attachment: fixed;
 	font-family: 'Raleway', sans-serif;
 	color: black;
 }
 header h1
 {
+	background: url(Semaine5/ep_naturalblack/ep_naturalblack/ep_naturalblack.png);
   font-size: center;
   font-weight: bold;
 }
 header img
 {
+	background: url(Semaine5/ep_naturalwhite/ep_naturalwhite/ep_naturalwhite.png);
   max-width: 75px;
   max-height: 100px
 }
